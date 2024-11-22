@@ -16,7 +16,7 @@
             "required": false
          },
          "Prefix": {
-            "description": "Enter a prefix for single prefix mode (Eg:- !, -, /, etc...)",
+            "description": ".",
             "required": false
          },
          "ThemeEmoji": {
@@ -28,7 +28,7 @@
             "required": true
          },
          "Owner_Number": {
-            "description": "Enter Owner's Number with country code",
+            "description": "94713457207",
             "required": true
          },
          "Insta": {
@@ -68,7 +68,7 @@
             "required": true
          },
          "SESSION_ID": {
-            "description": "Enter your session id",
+            "description": "Z6_A_N_Y_A_V_2_M1WpsDxrDTb18wVPKY",
             "required": true
          }
     },
